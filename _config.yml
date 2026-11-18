@@ -4,16 +4,16 @@
 
 # Site
 title: Yjkj Blog
-subtitle: '请留下你的足迹，证明你来过这里！'
-description: ''
-keywords:
-author: 壹家博客
+subtitle: "请留下你的足迹，证明你来过这里！"
+description: ""
+keywords: ""
+author: "壹家博客"
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://yjkj.nyc.mn/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
