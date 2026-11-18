@@ -152,8 +152,8 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: "false"
-default_top_img: "false"
+index_img: false
+default_top_img: false
 cover:
   # display the cover or not (是否显示文章封面)
   index_enable: true
@@ -1333,4 +1333,3 @@ CDN:
     # waterfall:
     # ali_iconfont_css:
     # accesskey_js:
- footer_img: ""
