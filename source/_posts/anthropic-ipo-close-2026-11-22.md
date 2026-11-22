@@ -10,6 +10,7 @@ tags:
 categories:
   - AI
 description: "Anthropic IPO 于 11 月 20 日收官，募资约 935 亿美元，同期定向增发 260 亿美元；股价首日大涨后第二天回落约 9.5%。"
+cover: https://xiaa.dpdns.org/file/1795312405903_media-generation-blog-cover-anthropic-ipo-0-eecb1b45-5667-42f4-a2fd-95fc861defbd.webp
 ---
 一家 AI 公司上市，到底能融到多少钱？Anthropic 这周给了答案，而且这个数字大得有点超出想象。
 

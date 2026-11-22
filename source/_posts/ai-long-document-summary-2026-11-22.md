@@ -10,6 +10,7 @@ tags:
 categories:
   - 科技
 description: "几十页的报告总读不下去？先带着问题让 AI 提炼结论、数字和待办，再回原文核对关键数据，最后用自己的话复述一遍，三步把长文变成能用的东西。"
+cover: https://xiaa.dpdns.org/file/1795312484106_media-generation-blog-cover-doc-summary-0-789b56b4-eeff-4ac2-a61d-59c391f69a3d.webp
 ---
 你电脑里是不是也躺着几份这样的文件：几十页的行业报告、厚厚的白皮书、别人发来的会议纪要。下载的时候觉得有用，打开看两页就放下了，最后在文件夹里吃灰。
 
