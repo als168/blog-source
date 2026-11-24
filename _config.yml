@@ -118,3 +118,9 @@ admin:
   username: als168
   password_hash: $2a$10$SNvo9rzca4INtML5Xw5xBeDdfhcasoeXh1o4SAKq1fkVM99QOLCiy
   secret: my super secret phrase
+
+# Search (hexo-generator-search)
+search:
+  path: search.xml
+  field: post
+  content: true

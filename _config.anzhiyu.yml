@@ -73,7 +73,7 @@ copy:
 # formal:
 #   name: link || icon
 social:
-  # Github: https://github.com/anzhiyu-c || anzhiyu-icon-github
+  Github: https://github.com/als168 || anzhiyu-icon-github
   # BiliBili: https://space.bilibili.com/372204786 || anzhiyu-icon-bilibili
 
 # 作者卡片 状态
@@ -117,7 +117,7 @@ docsearch:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
   preload: true
   CDN:
 
@@ -145,15 +145,15 @@ katex:
 # Favicon（网站图标）
 favicon: /favicon.ico
 avatar:
-  img: https://bu.dusays.com/2023/04/27/64496e511b09c.jpg
+  img: https://xiaa.dpdns.org/file/1795508496057_media-generation-blog-avatar-anime-0-18dce433-8d1d-4ea6-8d1e-7b0e6114594b.webp
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: false
-default_top_img: false
+index_img: https://xiaa.dpdns.org/file/1795508508444_media-generation-blog-home-banner-0-0b18cd22-8ff4-48d2-ac17-1d89442bf368.webp
+default_top_img: https://xiaa.dpdns.org/file/1795508508444_media-generation-blog-home-banner-0-0b18cd22-8ff4-48d2-ac17-1d89442bf368.webp
 cover:
   # display the cover or not (是否显示文章封面)
   index_enable: true
@@ -163,7 +163,8 @@ cover:
   # left/right/both
   position: left
   # When cover is not set, the default cover is displayed (当没有设置cover时，默认的封面显示)
-  default_cover: []
+  default_cover:
+    - https://xiaa.dpdns.org/file/1795508508444_media-generation-blog-home-banner-0-0b18cd22-8ff4-48d2-ac17-1d89442bf368.webp
 error_img:
   flink: /img/friend_404.gif
   post_page: /img/404.jpg
@@ -211,7 +212,7 @@ wordcount:
 # false: do not show the article introduction
 index_post_content:
   method: 3
-  length: 500 # if you set method to 2 or 3, the length need to config
+  length: 300 # if you set method to 2 or 3, the length need to config
 
 # anchor
 # when you scroll in post, the URL will update according to header id.
@@ -1246,7 +1247,7 @@ inject:
 
   bottom:
     # 自定义js
-    # - <script src="/js/xxx"></script>
+    - <script src="/js/visitor-info.js"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
