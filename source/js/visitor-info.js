@@ -67,19 +67,20 @@
   }
 
   function buildLoadingLine() {
-    // 加载屏里、头像正下方加一行访客信息，与侧边栏卡共用数据
+    // 加载屏里、头像正下方加一行访客信息（深色胶囊底，浅色/深色加载屏都看得见），与侧边栏卡共用数据
     if (document.getElementById("viLoadingLine")) return;
-    var bg = document.querySelector("#loading-box .loading-bg");
-    if (!bg) return;
+    var host = document.querySelector("#loading-box .loading-bg") ||
+      document.getElementById("loading-box");
+    if (!host) return;
     var line = document.createElement("div");
     line.id = "viLoadingLine";
-    line.style.cssText =
-      "margin-top:16px;text-align:center;color:#fff;font-size:14px;" +
-      "letter-spacing:.5px;text-shadow:0 1px 6px rgba(0,0,0,.6);padding:0 12px;";
+    line.style.cssText = "margin-top:16px;text-align:center;padding:0 12px;";
     line.innerHTML =
+      '<span style="display:inline-block;background:rgba(20,30,60,.55);color:#fff;' +
+      'border-radius:999px;padding:5px 14px;font-size:13.5px;letter-spacing:.5px;">' +
       '你的 IP：<span class="vi-ip">获取中…</span> · 归属地：<span class="vi-loc">—</span> · ' +
-      '<span class="vi-time">—</span>';
-    bg.appendChild(line);
+      '<span class="vi-time">—</span></span>';
+    host.appendChild(line);
   }
 
   function init() {
