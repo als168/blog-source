@@ -10,7 +10,7 @@ categories:
   - AI
 cover: https://xiaa.dpdns.org/file/1795395991670_media-generation-cover-forum-free-offers-2026-1-0-1ad31d75-c788-4da7-9478-ac6d673550d1.webp
 description: "论坛的福利版块是找免费 AI 额度的好地方，但帖子只能当线索。怎么筛、怎么核实、怎么避坑，这篇一步步讲清楚。"
-top_group_list: true
+top_group_index: 3
 ---
 找免费 AI 额度这件事，官方页面和 GitHub 清单我之前都讲过，今天换个地方：论坛的福利版块。
 
