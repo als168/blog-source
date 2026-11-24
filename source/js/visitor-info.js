@@ -78,8 +78,9 @@
       "position:absolute;left:50%;top:calc(50% + 88px);transform:translateX(-50%);" +
       "text-align:center;z-index:3;max-width:94vw;";
     line.innerHTML =
-      '<span style="display:inline-block;background:rgba(20,30,60,.55);color:#fff;' +
-      'border-radius:999px;padding:5px 14px;font-size:13.5px;letter-spacing:.5px;">' +
+      '<span style="display:inline-block;background:linear-gradient(90deg,#2563eb,#06b6d4 55%,#a855f7);color:#fff;' +
+      'border-radius:999px;padding:6px 16px;font-size:13.5px;font-weight:600;letter-spacing:.5px;' +
+      'box-shadow:0 4px 18px rgba(37,99,235,.45);">' +
       '你的 IP：<span class="vi-ip">获取中…</span> · 归属地：<span class="vi-loc">—</span> · ' +
       '<span class="vi-time">—</span></span>';
     host.appendChild(line);
