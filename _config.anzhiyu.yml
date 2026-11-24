@@ -31,7 +31,12 @@ nav:
   enable: false
   travelling: false
   clock: false
-  menu: []
+  menu:
+    - title: 网页
+      item:
+        - name: 博客
+          link: https://yjkj.nyc.mn/
+          icon: /img/favicon.ico
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
