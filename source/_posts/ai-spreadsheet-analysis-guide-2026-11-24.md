@@ -9,6 +9,7 @@ tags:
   - 教程
 categories:
   - AI
+cover: https://xiaa.dpdns.org/file/1795485577176_media-generation-cover-spreadsheet-ai-2026-11-2-0-97c58ae8-bbe1-4192-81cb-0df86150003a.webp
 description: "手头有张表格，想知道数据里藏着什么，又不想学公式？把表格交给 AI 对话工具，按这几步来，十分钟就能拿到一份能看的分析。"
 ---
 很多人手头都有一张表格：记账的、统计销量的、记录用户反馈的。想从里面看出点东西，但一看到“数据透视表”“VLOOKUP”就头大。

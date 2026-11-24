@@ -10,6 +10,7 @@ tags:
   - 工具对比
 categories:
   - 科技
+cover: https://xiaa.dpdns.org/file/1795485593437_media-generation-cover-ai-search-2026-11-24-0-7cb63f9e-579f-47cb-bf97-e6b8bf3ea6d5.webp
 description: "同样是 AI 搜索，Perplexity、ChatGPT 与 Kimi 的脾气很不一样。一个适合查资料写东西，一个适合随手问，一个适合啃中文长文。"
 ---
 现在搜东西，越来越多人的第一步不再是打开搜索引擎，而是直接问 AI。但问 AI 这件事，不同工具的脾气很不一样。同样一个问题，丢给 Perplexity、ChatGPT 和 Kimi，出来的答案在风格、来源和可信度上都可能差不少。

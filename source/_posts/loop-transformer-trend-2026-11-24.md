@@ -8,6 +8,7 @@ tags:
   - GLM-5.4
 categories:
   - AI
+cover: https://xiaa.dpdns.org/file/1795485611996_media-generation-cover-loop-transformer-2026-11-0-05a318f6-253e-4518-aa8a-a8900d1e002a.webp
 description: "一周之内，两家厂商先后发布了循环 Transformer 模型：把同一组层多跑几遍，换取更深的推理。参数竞赛之外，模型架构正在换一条赛道。"
 ---
 过去几年，大模型圈有个默认的玩法：想让模型更聪明，就把它做得更大。参数从几百亿涨到上万亿，训练用的算力跟着翻倍，电费账单也跟着翻倍。
