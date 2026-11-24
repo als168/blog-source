@@ -66,8 +66,25 @@
     aside.insertBefore(card, aside.firstChild);
   }
 
+  function buildLoadingLine() {
+    // 加载屏（#loading-box）底部加一行访客信息，与侧边栏卡共用数据
+    if (document.getElementById("viLoadingLine")) return;
+    var box = document.getElementById("loading-box");
+    if (!box) return;
+    var line = document.createElement("div");
+    line.id = "viLoadingLine";
+    line.style.cssText =
+      "position:absolute;left:0;right:0;bottom:11%;text-align:center;color:#fff;" +
+      "font-size:14px;letter-spacing:.5px;text-shadow:0 1px 6px rgba(0,0,0,.6);z-index:2;padding:0 12px;";
+    line.innerHTML =
+      '你的 IP：<span class="vi-ip">获取中…</span> · 归属地：<span class="vi-loc">—</span> · ' +
+      '<span class="vi-time">—</span>';
+    box.appendChild(line);
+  }
+
   function init() {
     buildSidebarCard();
+    buildLoadingLine();
     tick();
     if (!clockStarted) {
       clockStarted = true;
