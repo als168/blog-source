@@ -1239,7 +1239,6 @@ inject:
   head:
     # 自定义css
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
-    - <style>#todayCard{display:none!important}</style>
 
   bottom:
     # 自定义js
