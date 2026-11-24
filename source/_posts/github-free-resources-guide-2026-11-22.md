@@ -11,6 +11,7 @@ categories:
   - 科技
 description: "GitHub 上有不少公开维护的免费资源清单，但清单只是线索：顺着它找到官方页面，核实额度、条件和到期日，再绕开绑卡、刷量和中转站这些坑，才算真正淘到福利。"
 cover: https://xiaa.dpdns.org/file/1795312456878_media-generation-blog-cover-github-treasure-0-0aa84b58-c111-422d-aa67-afc90ae29acf.webp
+top_group_list: true
 ---
 很多人问我，免费的 AI 额度到底去哪找。除了蹲厂商官网，还有一个地方经常被忽略：GitHub 上有一批公开维护的免费资源清单。它们本身不发额度，但把散落在各家的免费层、试用活动整理到了一起，相当于一张藏宝图。今天就说说，这张图怎么用才靠谱。
 

@@ -10,6 +10,7 @@ categories:
   - 科技
 cover: https://xiaa.dpdns.org/file/1795485563238_media-generation-cover-official-pages-2026-11-2-0-4efc0d98-fab3-4a63-8fca-49753d3c4b26.webp
 description: "想自己找免费 AI 额度，别只蹲论坛。厂商的定价页、活动页、更新日志和新用户活动里，藏着更靠谱的线索，顺着这四条线一步步找就行。"
+top_group_list: true
 ---
 前两天写了怎么从 GitHub 清单和论坛福利版块里淘免费额度，有读者问：这些线索最后不还是得去官方页面核实吗？那能不能一开始就直接从官方找？
 

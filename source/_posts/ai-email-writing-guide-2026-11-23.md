@@ -10,6 +10,7 @@ categories:
   - AI
 cover: https://xiaa.dpdns.org/file/1795396020561_media-generation-cover-ai-email-2026-11-23-0-06ee16df-4c97-45df-b8e4-40a3df1d2962.webp
 description: "催进度怕得罪人，道歉怕显得没诚意，感谢怕写得像客套话。用 AI 写邮件不是复制粘贴，关键在给对信息、改对语气。"
+top_group_list: true
 ---
 写邮件这件事，难的从来不是打字，是拿捏分寸。
 
