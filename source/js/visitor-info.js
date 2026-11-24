@@ -1,7 +1,6 @@
-// 访客信息：侧边栏卡片 + 首页开屏（标题区）头像与 IP 信息条。
+// 访客信息卡：显示访客自己的 IP、归属地与当前时间，插入侧边栏顶部。
 // IP 走本站 Cloudflare 的 /cdn-cgi/trace（同源，不经第三方）；失败时退到 ipapi.co。
 (function () {
-  var AVATAR_URL = "https://xiaa.dpdns.org/file/1795508496057_media-generation-blog-avatar-anime-0-18dce433-8d1d-4ea6-8d1e-7b0e6114594b.webp";
   var LOC_NAMES = {
     CN: "中国", HK: "中国香港", TW: "中国台湾", MO: "中国澳门",
     SG: "新加坡", JP: "日本", KR: "韩国", US: "美国", GB: "英国",
@@ -67,34 +66,8 @@
     aside.insertBefore(card, aside.firstChild);
   }
 
-  function buildHeaderBlock() {
-    // 仅首页开屏的标题区（#site-info）里加：头像 + IP 信息条
-    if (document.getElementById("viHeaderBlock")) return;
-    var info = document.getElementById("site-info");
-    if (!info) return;
-    var wrap = document.createElement("div");
-    wrap.id = "viHeaderBlock";
-    wrap.innerHTML =
-      '<img src="' + AVATAR_URL + '" alt="头像" ' +
-      'style="width:88px;height:88px;border-radius:50%;object-fit:cover;display:block;margin:0 auto 16px;' +
-      'border:3px solid rgba(255,255,255,.9);box-shadow:0 6px 24px rgba(0,0,0,.45);">' +
-      '<div style="margin-top:18px;">' +
-      '<span style="display:inline-block;padding:7px 16px;border-radius:999px;background:rgba(0,0,0,.42);' +
-      'color:#fff;font-size:13.5px;line-height:1.5;backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);">' +
-      '你的 IP：<span class="vi-ip">获取中…</span> · 归属地：<span class="vi-loc">—</span> · ' +
-      '<span class="vi-time">—</span></span></div>';
-    // 头像放在标题上方，信息条整体追加到标题区末尾：拆成两步插入
-    var avatarImg = wrap.querySelector("img");
-    var pill = wrap.querySelector("div");
-    info.insertBefore(avatarImg, info.firstChild);
-    info.appendChild(pill);
-    wrap.id = "";
-    avatarImg.id = "viHeaderBlock";
-  }
-
   function init() {
     buildSidebarCard();
-    buildHeaderBlock();
     tick();
     if (!clockStarted) {
       clockStarted = true;
