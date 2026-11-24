@@ -74,7 +74,9 @@
     if (!host) return;
     var line = document.createElement("div");
     line.id = "viLoadingLine";
-    line.style.cssText = "margin-top:16px;text-align:center;padding:0 12px;";
+    line.style.cssText =
+      "position:absolute;left:50%;top:calc(50% + 88px);transform:translateX(-50%);" +
+      "text-align:center;z-index:3;max-width:94vw;";
     line.innerHTML =
       '<span style="display:inline-block;background:rgba(20,30,60,.55);color:#fff;' +
       'border-radius:999px;padding:5px 14px;font-size:13.5px;letter-spacing:.5px;">' +
