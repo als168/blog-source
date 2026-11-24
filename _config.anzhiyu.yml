@@ -1049,8 +1049,8 @@ css_prefix: true
 home_top:
   enable: true # 开关
   timemode: date #date/updated
-  title: 生活明朗
-  subTitle: 万物可爱。
+  title: 探索 AI 与科技
+  subTitle: 每天五篇：工具教程 · 实测体验 · 免费福利
   siteText: yjkj.nyc.mn
   category:
     - name: "前端"
@@ -1074,10 +1074,10 @@ home_top:
     swiper_css: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.css #swiper css依赖
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
-    tips: 
-    title: 
+    tips: 每日更新
+    title: Sven · 福利雷达
     image: https://xiaa.dpdns.org/file/1795513892369_media-generation-blog-today-card-0-361ff1bb-37f8-4d9a-9df5-2d4c420da0ac.webp
-    link: https://yjkj.nyc.mn/
+    link: https://muse.ai/s/sven-fu-li-lei-da-gong-kai-ban-xto6v3axibxcxrxp/k9wFHlHJzodvd7LDRvTZYASffH00ryPCcBOv2O-Z01w
 
 # 朋友圈配置
 friends_vue:
