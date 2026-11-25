@@ -3,7 +3,6 @@ title: 重装电脑神器——Scoop管理软件
 cover: https://xiaa.dpdns.org/file/vlog/1744852811151_image-20250414203108494.png
 cover_author: 
 swiper_index: 10
-top_group_index: 10
 background: '#fff'
 date: 2025-04-07 08:52:28
 updated:

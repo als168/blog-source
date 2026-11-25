@@ -3,7 +3,6 @@ title: Alpine系统搭建哪吒监控教程
 top: 1
 cover: https://xiaa.dpdns.org/file/vlog/1745066448863_image-7-1024x752.png
 swiper_index: 10
-top_group_index: 10
 background: '#fff'
 date: 2025-04-19 20:24:02
 updated:

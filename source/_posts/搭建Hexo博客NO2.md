@@ -3,7 +3,6 @@ title: 搭建Hexo博客NO2
 top: 1
 cover: https://img.090227.xyz/file/ae62475a131f3734a201c.png
 swiper_index: 10
-top_group_index: 10
 background: '#fff'
 date: 2025-04-17 10:01:49
 updated:

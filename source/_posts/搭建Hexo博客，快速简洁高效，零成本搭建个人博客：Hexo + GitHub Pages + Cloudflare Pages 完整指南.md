@@ -1,7 +1,6 @@
 title: 搭建Hexo博客，快速简洁高效，零成本搭建个人博客：Hexo + GitHub Pages + Cloudflare Pages 完整指南
 cover: 'https://img.090227.xyz/file/ae62475a131f3734a201c.png'
 swiper_index: 10
-top_group_index: 10
 background: '#fff'
 tags: []
 categories: []
