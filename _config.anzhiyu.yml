@@ -1224,7 +1224,7 @@ rightClickMenu:
 
 # 首页随便逛逛people模式 而非技能点模式，关闭后为技能点模式需要配置creativity.yml
 peoplecanvas:
-  enable: true
+  enable: false
   img: https://upload-bbs.miyoushe.com/upload/2024/07/27/125766904/ba62475f396df9de3316a08ed9e65d86_5680958632268053399..png
 
 # 动效
@@ -1240,6 +1240,8 @@ inject:
   head:
     # 自定义css
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
+    # 2026-11-26 首页左卡背景图（纸飞机亮色横幅，替代 peoplecanvas 小人动画的黑底）
+    - '<style>#random-banner{background:linear-gradient(rgba(10,80,160,.16),rgba(10,80,160,.16)),url("https://xiaa.dpdns.org/file/1795663952555_media-generation-blog-home-top-banner-0-0f652897-c5c0-4c59-8bfe-968814c57d28.webp") center/cover no-repeat !important}#random-banner .banners-title-big,#random-banner .banners-title-small{color:#fff !important;text-shadow:0 2px 14px rgba(0,60,120,.55)}#skills-tags-group-all{display:none !important}</style>'
 
   bottom:
     # 自定义js
