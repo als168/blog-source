@@ -30,7 +30,7 @@ nav:
       item:
         - name: 博客
           link: https://yjkj.nyc.mn/
-          icon: /img/favicon.ico
+          icon: https://xiaa.dpdns.org/file/1795656905174_blog-logo-plane.png
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
@@ -132,7 +132,7 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: /favicon.ico
+favicon: https://xiaa.dpdns.org/file/1795656905174_blog-logo-plane.png
 
 # Avatar (头像)
 avatar:
