@@ -1053,18 +1053,18 @@ home_top:
   subTitle: 每天五篇：工具教程 · 实测体验 · 免费福利
   siteText: yjkj.nyc.mn
   category:
-    - name: "前端"
-      path: "/categories/前端开发/"
+    - name: "工具教程"
+      path: "/categories/工具教程/"
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
-    - name: "科技"
-      path: "/categories/科技/"
+    - name: "免费福利"
+      path: "/categories/免费福利/"
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
-    - name: AI
-      path: /categories/AI/
+    - name: AI资讯
+      path: /categories/AI资讯/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book

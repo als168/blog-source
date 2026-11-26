@@ -1051,18 +1051,18 @@ home_top:
   subTitle: 每天五篇：工具教程 · 实测体验 · 免费福利
   siteText: anheyu.com
   category:
-    - name: 前端
-      path: /categories/前端开发/
+    - name: 工具教程
+      path: /categories/工具教程/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
-    - name: 大学
-      path: /categories/大学生涯/
+    - name: 免费福利
+      path: /categories/免费福利/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
-    - name: 生活
-      path: /categories/生活日常/
+    - name: AI资讯
+      path: /categories/AI资讯/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book
