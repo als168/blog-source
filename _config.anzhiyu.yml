@@ -1,12 +1,13 @@
 menu:
-    文章:
-      隧道: /archives/ || anzhiyu-icon-box-archive
-      分类: /categories/ || anzhiyu-icon-shapes
-      标签: /tags/ || anzhiyu-icon-tags
-    教程:
-      教程: /tutorials/ || anzhiyu-icon-book
-      视频: /videos/ || anzhiyu-icon-video
-      工具: /tools/ || anzhiyu-icon-wrench
+  # 2026-11-26 用户决定：顶部菜单全部去掉，留空（原文注释保留备查）
+  # 文章:
+  #   隧道: /archives/ || anzhiyu-icon-box-archive
+  #   分类: /categories/ || anzhiyu-icon-shapes
+  #   标签: /tags/ || anzhiyu-icon-tags
+  # 教程:
+  #   教程: /tutorials/ || anzhiyu-icon-book
+  #   视频: /videos/ || anzhiyu-icon-video
+  #   工具: /tools/ || anzhiyu-icon-wrench
 
 
   
