@@ -8,7 +8,7 @@ tags:
   - AI 模型
   - Neon
 categories:
-  - AI
+  - AI资讯
 description: "谷歌 11 月 18 日发布 Gemini 4 Neon，定位在旗舰 Carbon 与轻量 Hydrogen 之间，主打旗舰级能力与中端价格，八天内 Gemini 4 家族已凑齐四款模型。"
 ---
 上周还在讨论 Gemini 4 Carbon 和 Hydrogen 的分工，这周谷歌又补上了中间那一块。11 月 18 日，Google DeepMind 发布 Gemini 4 Neon，定位在旗舰 Carbon 与轻量 Hydrogen 之间，主打「旗舰级能力、中端价格与速度」。八天之内，Gemini 4 家族已经凑齐四款模型，这套打法值得仔细看一看。

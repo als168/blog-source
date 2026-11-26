@@ -8,7 +8,7 @@ tags:
   - 省钱
   - 算账
 categories:
-  - AI
+  - 免费福利
 cover: https://xiaa.dpdns.org/file/1795568729042_media-generation-cover-deepseek-200-yuan-2026-1-0-772c2ff3-f6d8-47eb-b454-cc3c0ded19ac.webp
 description: "200 块钱充进 DeepSeek 能用多久？按 11 月 25 日官方定价页实测的价格算了一笔账：日常对话能撑几万轮，峰谷时段价格还差一倍。"
 ---

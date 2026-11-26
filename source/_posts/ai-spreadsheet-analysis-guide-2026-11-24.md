@@ -8,7 +8,7 @@ tags:
   - 表格
   - 教程
 categories:
-  - AI
+  - 工具教程
 cover: https://xiaa.dpdns.org/file/1795485577176_media-generation-cover-spreadsheet-ai-2026-11-2-0-97c58ae8-bbe1-4192-81cb-0df86150003a.webp
 description: "手头有张表格，想知道数据里藏着什么，又不想学公式？把表格交给 AI 对话工具，按这几步来，十分钟就能拿到一份能看的分析。"
 top_group_index: 4

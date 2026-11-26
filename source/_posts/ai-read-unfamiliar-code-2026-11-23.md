@@ -7,7 +7,7 @@ tags:
   - AI 编程
   - 代码阅读
 categories:
-  - 科技
+  - 开发运维
 cover: https://xiaa.dpdns.org/file/1795396039043_media-generation-cover-read-code-2026-11-23-0-da87efb3-f30d-42ad-b160-2d4ef43aed97.webp
 description: "接手别人的代码，最怕的就是看不懂还不敢改。把代码贴给 AI 之前，先想好问什么：四个提问方式，从整体结构问到具体细节。"
 ---

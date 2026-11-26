@@ -8,7 +8,7 @@ tags:
   - 个人智能体
   - 字节跳动
 categories:
-  - 科技
+  - AI资讯
 cover: https://xiaa.dpdns.org/file/1795654786910_media-generation-cover-xiaodou-2026-11-26-0-de18f6d8-73b9-4ad5-bf6e-8a9520e00fb3.webp
 description: "11 月 24 日，豆包旗下个人助理「小豆」开启邀请制公测：长期记忆、后台跑任务、代打电话订餐厅。它和以前的聊天助手不是一回事。"
 ---

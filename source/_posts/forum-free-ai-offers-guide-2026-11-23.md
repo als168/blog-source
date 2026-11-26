@@ -7,7 +7,7 @@ tags:
   - 福利
   - 论坛
 categories:
-  - AI
+  - 免费福利
 cover: https://xiaa.dpdns.org/file/1795395991670_media-generation-cover-forum-free-offers-2026-1-0-1ad31d75-c788-4da7-9478-ac6d673550d1.webp
 description: "论坛的福利版块是找免费 AI 额度的好地方，但帖子只能当线索。怎么筛、怎么核实、怎么避坑，这篇一步步讲清楚。"
 top_group_index: 3

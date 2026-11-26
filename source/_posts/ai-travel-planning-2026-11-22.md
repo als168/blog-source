@@ -7,7 +7,7 @@ tags:
   - 旅行
   - 效率
 categories:
-  - 科技
+  - 工具教程
 description: "出门旅行前，先把人数、预算、兴趣和节奏一次告诉 AI，让它排两版行程给你挑，再逐项核实营业时间、门票和交通，半天就能做出一份靠谱的行程单。"
 cover: https://xiaa.dpdns.org/file/1795331195861_media-generation-blog-cover-travel-plan-0-095274a9-be87-4f31-a870-3f0ebdadc592.webp
 ---

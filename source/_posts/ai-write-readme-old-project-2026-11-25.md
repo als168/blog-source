@@ -8,7 +8,7 @@ tags:
   - 文档
   - 开发技巧
 categories:
-  - 科技
+  - 工具教程
 cover: https://xiaa.dpdns.org/file/1795568782600_media-generation-cover-ai-readme-old-project-20-0-812195b7-0de7-4ade-8f75-8e6b599b86e3.webp
 description: "老项目没文档，新人接手全靠口口相传？让 AI 先读代码再写 README，三步拿到一份能直接用的文档，关键是最后那步人工核对不能省。"
 ---

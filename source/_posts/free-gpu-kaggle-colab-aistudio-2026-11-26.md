@@ -8,7 +8,7 @@ tags:
   - Colab
   - 飞桨
 categories:
-  - 科技
+  - 选购对比
 cover: https://xiaa.dpdns.org/file/1795654863024_media-generation-cover-free-gpu-2026-11-26-0-58926fe1-bab2-4121-9fb2-360fd191a8fc.webp
 description: "想跑个模型练手，又不想花钱买卡，Kaggle、Colab、飞桨 AI Studio 是三个不用绑卡的免费入口。额度、显卡、适合人群一次说清。"
 ---

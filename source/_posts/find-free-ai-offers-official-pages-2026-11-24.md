@@ -7,7 +7,7 @@ tags:
   - AI工具
   - 教程
 categories:
-  - 科技
+  - 免费福利
 cover: https://xiaa.dpdns.org/file/1795485563238_media-generation-cover-official-pages-2026-11-2-0-4efc0d98-fab3-4a63-8fca-49753d3c4b26.webp
 description: "想自己找免费 AI 额度，别只蹲论坛。厂商的定价页、活动页、更新日志和新用户活动里，藏着更靠谱的线索，顺着这四条线一步步找就行。"
 top_group_index: 6

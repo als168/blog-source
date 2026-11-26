@@ -8,7 +8,7 @@ tags:
   - Personal Intelligence
   - 隐私
 categories:
-  - 科技
+  - AI资讯
 cover: https://xiaa.dpdns.org/file/1795568664231_media-generation-cover-google-personal-intellig-0-d34e671b-5d7a-4c31-b6c9-9cc9f30f97e7.webp
 description: "谷歌把钱包、云端硬盘和 Gemini 聊天记录接进了搜索的 Personal Intelligence，AI Mode 能结合你的消费和文档给答案了。方便是真方便，隐私账也得自己算清楚。"
 ---

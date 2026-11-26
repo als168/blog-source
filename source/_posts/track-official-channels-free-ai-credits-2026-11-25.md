@@ -8,7 +8,7 @@ tags:
   - 官方渠道
   - 方法教程
 categories:
-  - AI
+  - 免费福利
 cover: https://xiaa.dpdns.org/file/1795568699577_media-generation-cover-track-official-channels-0-48f2c35b-b04c-49c2-abe3-2218c29f1986.webp
 description: "别人总能第一时间领到新额度，靠的不是运气，是盯住了官方的更新渠道。这篇把 Changelog、官方博客、邮件订阅和 RSS 这几条线讲清楚，照着做就行。"
 ---

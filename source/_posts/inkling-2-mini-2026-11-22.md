@@ -8,7 +8,7 @@ tags:
   - 本地部署
   - 大模型
 categories:
-  - AI
+  - AI资讯
 description: "Thinking Machines 11 月 20 日发布开源模型 Inkling 2 Mini：26.4B 参数、约 20GB 体积，循环结构让它能在 32GB 内存的笔记本上本地运行。"
 cover: https://xiaa.dpdns.org/file/1795312429061_media-generation-blog-cover-inkling-laptop-0-c079da16-eec3-4c35-ab27-ad4f88879fd3.webp
 ---

@@ -7,7 +7,7 @@ tags:
   - ChatGPT
   - 宕机
 categories:
-  - 科技
+  - AI资讯
 cover: https://xiaa.dpdns.org/file/1795395963671_media-generation-cover-openai-outage-2026-11-23-0-dcad7baf-16d8-4a1f-bdfe-30099a08afd6.webp
 description: "11 月 21 日，ChatGPT 和 OpenAI API 断了 3.5 小时，请求失败率峰值 75%。官方复盘说，祸首是一次再普通不过的数据库维护。"
 ---

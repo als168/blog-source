@@ -8,7 +8,7 @@ tags:
   - 对比
   - 选购
 categories:
-  - AI
+  - 选购对比
 cover: https://xiaa.dpdns.org/file/1795568752769_media-generation-cover-free-ai-chat-comparison-0-22db31d1-cbb2-4ef8-8eb9-688324da1033.webp
 description: "四个免费 AI 聊天助手，免费版到底差在哪？按官方定价页和公开规则对了一遍：日常聊天选豆包和 DeepSeek 最耐用，啃长文档看 Kimi，想用最新模型得看清免费版给的是轻量款。"
 ---

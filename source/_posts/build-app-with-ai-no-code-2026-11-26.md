@@ -8,7 +8,7 @@ tags:
   - 应用开发
   - Claude
 categories:
-  - AI
+  - 工具教程
 cover: https://xiaa.dpdns.org/file/1795654815692_media-generation-cover-build-app-ai-2026-11-26-0-10a69daa-5405-4041-be6c-787c7403dc19.webp
 description: "一位不会写代码的博主，靠 AI 做出了一套个人信息管理系统并开源了。这事的门槛不在写代码，而在想清楚需求、会测试、敢部署。"
 ---

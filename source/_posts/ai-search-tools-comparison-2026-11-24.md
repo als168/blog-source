@@ -9,7 +9,7 @@ tags:
   - Kimi
   - 工具对比
 categories:
-  - 科技
+  - 选购对比
 cover: https://xiaa.dpdns.org/file/1795485593437_media-generation-cover-ai-search-2026-11-24-0-7cb63f9e-579f-47cb-bf97-e6b8bf3ea6d5.webp
 description: "同样是 AI 搜索，Perplexity、ChatGPT 与 Kimi 的脾气很不一样。一个适合查资料写东西，一个适合随手问，一个适合啃中文长文。"
 top_group_index: 5

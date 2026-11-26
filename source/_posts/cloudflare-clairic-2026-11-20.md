@@ -8,7 +8,7 @@ tags:
   - 文档处理
   - Clairic
 categories:
-  - AI
+  - AI资讯
 description: "Cloudflare 11 月 18 日发布开源权重文档理解模型 Clairic 与 Clairic-flash，专攻 PDF 与表格抽取并支持答案溯源，定价只收输入 token 费用。"
 ---
 AI 模型越来越会聊天，但真正让企业头疼的往往是另一件事：成堆的 PDF、扫描件和表格。11 月 18 日，Cloudflare 发布了文档理解模型 Clairic 和轻量版 Clairic-flash，并且以开源权重的方式放出。这不是一款通用聊天模型，而是一台专门「读文档」的机器。

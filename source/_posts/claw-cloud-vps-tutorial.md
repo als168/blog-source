@@ -6,6 +6,9 @@ tags:
   - Claw Cloud
   - VLESS
   - 教程
+categories:
+  - 开发运维
+
 ---
 
 ## 🛠 教程开始：Claw Cloud 搭建节点全流程

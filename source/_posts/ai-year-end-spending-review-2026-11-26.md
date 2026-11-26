@@ -8,7 +8,7 @@ tags:
   - 年终整理
   - 消费
 categories:
-  - AI
+  - 工具教程
 cover: https://xiaa.dpdns.org/file/1795654851370_media-generation-cover-year-spending-2026-11-26-0-2d75a28a-3567-4ef7-9f6f-1b7300e02ab8.webp
 description: "12 月快到了，攒了一年的账单别只躺在 App 里。导出来、脱敏、丢给 AI 分类汇总，半小时就能看清今年的钱都去哪了。"
 ---

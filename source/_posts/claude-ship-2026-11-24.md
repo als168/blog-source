@@ -8,7 +8,7 @@ tags:
   - AI编程
   - 代码审查
 categories:
-  - AI
+  - AI资讯
 cover: https://xiaa.dpdns.org/file/1795485548336_media-generation-cover-claude-ship-2026-11-24-0-81bfc940-df82-4597-b1f8-81486e069bbb.webp
 description: "Anthropic 刚发布的 Claude Ship 把代码审查、修 CI、批合并交给三个 AI 智能体，写代码的瓶颈正在从“写”挪到“审”。"
 ---

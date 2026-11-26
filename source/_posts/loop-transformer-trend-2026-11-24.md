@@ -7,7 +7,7 @@ tags:
   - 行业观察
   - GLM-5.4
 categories:
-  - AI
+  - AI资讯
 cover: https://xiaa.dpdns.org/file/1795485611996_media-generation-cover-loop-transformer-2026-11-0-05a318f6-253e-4518-aa8a-a8900d1e002a.webp
 description: "一周之内，两家厂商先后发布了循环 Transformer 模型：把同一组层多跑几遍，换取更深的推理。参数竞赛之外，模型架构正在换一条赛道。"
 ---

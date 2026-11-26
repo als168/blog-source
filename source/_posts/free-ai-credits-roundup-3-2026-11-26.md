@@ -7,7 +7,7 @@ tags:
   - 福利盘点
   - API
 categories:
-  - AI
+  - 免费福利
 cover: https://xiaa.dpdns.org/file/1795654885116_media-generation-cover-free-credits-2026-11-26-0-bff42bf7-d507-4c31-b9c8-be9fe1494cd3.webp
 description: "福利雷达 11 月 24 日快照，第八批 15 条全部官方已核实。从里面挑了 7 个最值得领的：语音合成月底截止，超算平台 1000 万 Tokens 活动到 12 月 31 日。"
 ---

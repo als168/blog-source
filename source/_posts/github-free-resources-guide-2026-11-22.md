@@ -8,7 +8,7 @@ tags:
   - 福利
   - 教程
 categories:
-  - 科技
+  - 免费福利
 description: "GitHub 上有不少公开维护的免费资源清单，但清单只是线索：顺着它找到官方页面，核实额度、条件和到期日，再绕开绑卡、刷量和中转站这些坑，才算真正淘到福利。"
 cover: https://xiaa.dpdns.org/file/1795312456878_media-generation-blog-cover-github-treasure-0-0aa84b58-c111-422d-aa67-afc90ae29acf.webp
 top_group_index: 1

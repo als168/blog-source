@@ -7,7 +7,7 @@ tags:
   - Gemini
   - AI 助手
 categories:
-  - AI
+  - AI资讯
 description: "Google 把电脑操作功能带进 Mac 版 Gemini 应用，能在后台窗口里帮你点鼠标、填表格、跨应用做多步骤任务。"
 ---
 11 月 19 日，Google 在官方博客上宣布了一件事：Mac 版 Gemini 应用里加了电脑操作（computer use）功能。

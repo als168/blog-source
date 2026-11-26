@@ -7,7 +7,7 @@ tags:
   - 生活
   - 三餐
 categories:
-  - AI
+  - 工具教程
 cover: https://xiaa.dpdns.org/file/1795396062339_media-generation-cover-meal-planning-2026-11-23-0-35989bcd-d73a-4bda-8b94-f4c03d781566.webp
 description: "每天想吃什么，比做饭本身还累。把冰箱里的菜报给 AI，让它按\"先用快坏的\"排一周菜单，省钱、省时间，还不浪费。"
 ---

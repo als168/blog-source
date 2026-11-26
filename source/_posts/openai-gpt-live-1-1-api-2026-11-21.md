@@ -7,7 +7,7 @@ tags:
   - 语音模型
   - API
 categories:
-  - AI
+  - AI资讯
 description: "OpenAI 把 GPT-Live-1.1 放进 API，语音助手能边听边说；新加的待机模式让通话里的沉默时段按每分钟 0.02 美元计费。"
 ---
 11 月 19 日，OpenAI 在开发者 API 的更新日志里加了一条不算长的新内容：GPT-Live-1.1 进 API 了。
