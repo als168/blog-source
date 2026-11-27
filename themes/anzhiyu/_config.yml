@@ -1237,6 +1237,8 @@ inject:
   head:
     # 自定义css
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
+    # 2026-11-27 分类/标签/归档页顶部减半（400→200px）、文章页头图收一点（500→336px），与站点 _config.anzhiyu.yml 同步
+    - '<style>#page-header.not-home-page{height:200px}#page-header #page-site-info{top:84px}#page-header.post-bg{height:21rem}@media screen and (max-width:768px){#page-header.not-home-page{height:170px}#page-header #page-site-info{top:64px}#page-header.post-bg{height:20rem;min-height:20rem}}</style>'
 
   bottom:
     # 自定义js

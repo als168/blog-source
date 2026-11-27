@@ -1242,6 +1242,8 @@ inject:
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
     # 2026-11-26 首页左卡背景图（纸飞机亮色横幅，替代 peoplecanvas 小人动画的黑底）
     - '<style>#random-banner{background:linear-gradient(rgba(10,80,160,.16),rgba(10,80,160,.16)),url("https://xiaa.dpdns.org/file/1795663952555_media-generation-blog-home-top-banner-0-0f652897-c5c0-4c59-8bfe-968814c57d28.webp") center/cover no-repeat !important}#random-banner .banners-title-big,#random-banner .banners-title-small{color:#fff !important;text-shadow:0 2px 14px rgba(0,60,120,.55)}#skills-tags-group-all{display:none !important}</style>'
+    # 2026-11-27 分类/标签/归档页顶部减半（400→200px）、文章页头图收一点（500→336px）
+    - '<style>#page-header.not-home-page{height:200px}#page-header #page-site-info{top:84px}#page-header.post-bg{height:21rem}@media screen and (max-width:768px){#page-header.not-home-page{height:170px}#page-header #page-site-info{top:64px}#page-header.post-bg{height:20rem;min-height:20rem}}</style>'
 
   bottom:
     # 自定义js
